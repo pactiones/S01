@@ -2,7 +2,7 @@
 
 # Exercício 1: 
 
-* Histórico de Prompts: https://chatgpt.com/s/cx_6aa2eaec30f48191b41fd5bca3577d2d](https://chatgpt.com/s/cx_6ad139debe888191b05812a938f25ae4
+* Histórico de Prompts: https://chatgpt.com/s/cx_6aa2eaec30f48191b41fd5bca3577d2d
 
 ## Relatório de Aprendizado: 
 
