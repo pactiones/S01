@@ -51,10 +51,10 @@ class TrupeFantasma{
     }
 }
 
-const feitan = new Aranha("Chrollo Lucilfer", 0)
+const chrollo = new Aranha("Chrollo Lucilfer", 0)
 const hisoka = new Aranha("Hisoka", 4)
 
-const trupe = new TrupeFantasma("Yorknew City", [feitan, hisoka])
+const trupe = new TrupeFantasma("Yorknew City", [chrollo, hisoka])
 
 trupe.revelarAranhas()
 
